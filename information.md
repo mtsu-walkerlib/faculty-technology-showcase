@@ -41,7 +41,7 @@ November 13, 2018<br />
     * [*I Like Notebooks: A Response*](https://docs.google.com/presentation/d/1XmbeH_sdOKqhi05_FbH2EdRw948i8IvBz1PdfJGbhf4/edit?usp=sharing)<br />[Tim Hopper](https://twitter.com/tdhopper) (Cylance, Inc)
 * 15:15 — 15:30: Late afternoon break
 * 15:30 — 16:55  Short talks
-    * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
+    * [*Just a little bit of PixieDust*](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/96ee6ab4-6460-490b-90d1-8cdef040b89e/view?access_token=b958279d3c57861754ebb5cf6205292f78e0b8ee7ee7943753a349066f5e8abd)<br />[Zeydy Ortiz](https://www.linkedin.com/in/zortiz) (DataCrunch Lab)  
     * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Jonathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
     * *Sprinting in Jupyter Through R Track Results*<br />[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
     * *[Using Dask with Jupyter widgets for visualizing queries on large datasets](https://github.com/scottlittle/jupyterday-dask-jupyter-widgets/blob/master/Using%20Dask%20with%20Jupyter%20Widgets%20for%20Visualizing%20Queries%20on%20Large%20Datasets.ipynb)*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
