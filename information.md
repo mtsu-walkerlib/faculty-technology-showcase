@@ -31,7 +31,7 @@ November 13, 2018<br />
     * [*Have Yourself a Merry Little Notebook*](https://docs.google.com/presentation/d/e/2PACX-1vTkUcBEni7k0htimR4DzceNcN_RSfZMVENpqXYq4DCe_JTs8VnoAnMpRsUoAnQcjMrE6Un_J8xAPqhR/pub)<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)
     * [*importnb: An Impromptu Talk*](https://github.com/deathbeds/importnb)<br />[Tony Fast](https://twitter.com/docfast) (QuanSight)
     * *[Integrating JupyterLab and Jupyter into Code Ocean](https://github.com/setgree/jupyter-day-presentation)*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
-    * *Lifecycle of an Operations Prototype Notebook*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)
+    * *[Everything I wish I knew sooner (so far)](https://github.com/jussmi/triangle-jupyter-day-2018)*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
     * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
     * [*Deep Learning in Jupyter with Python and SAS*](https://github.com/sassoftware/python-dlpy/blob/master/examples/Identifying_Superheroes_From_Product_Images.ipynb)<br />[Andre Violante](https://github.com/aviolante) (SAS)  
     * [*Under the Covers: Jupyter Notebook &amp; Tornado*](https://github.com/josh-howes/jupyter-day-triangle-2018/blob/master/jupyter_tornado/notebooks/Under%20the%20Covers%20-%20Jupyter%20Notebook%20%26%20Tornado.ipynb)<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
