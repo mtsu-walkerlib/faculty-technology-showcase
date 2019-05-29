@@ -1,7 +1,6 @@
 # Engage with Data Science @ MTSU
 
-_Change to an MTSU Gitter channel?_
-[![Join the chat at https://engagewithdat-j8s3791.slack.com/messages/CJX99KJMP/](https://badges.gitter.im/TriangleJupyter/Lobby.svg)](https://gitter.im/TriangleJupyter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Communicate on our Slack channel: https://engagewithdat-j8s3791.slack.com/messages/CJX99KJMP/
 
 Source of the event website located at https://mesloane.github.io/engage-with-data-science/.
 
