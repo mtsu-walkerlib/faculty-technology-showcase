@@ -1,8 +1,9 @@
-# JupyterDay in the Triangle
+# Engage with Data Science @ MTSU
 
+_Change to an MTSU Gitter channel?_
 [![Join the chat at https://gitter.im/TriangleJupyter/Lobby](https://badges.gitter.im/TriangleJupyter/Lobby.svg)](https://gitter.im/TriangleJupyter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Source of the event website located at https://libcce.github.io/TriangleJupyter/.
+Source of the event website located at https://mesloane.github.io/engage-with-data-science/.
 
 ## Contributing to the website
 
