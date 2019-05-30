@@ -15,45 +15,7 @@ Murfreesboro, TN 37132 USA <br />
 
 *Please feel free to [send pull-requests](https://github.com/libcce/TriangleJupyter/blob/master/information.md) linking talk titles below to presentation materials.*
 
-* 08:00 — 09:00: Check-in, networking, breakfast
-* 09:00 — 09:25: Welcome, introduction, logistics
-    * [Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)<br />
-    * [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)<br />
-* 09:30 — 10:10: Keynote and Q&A
-    * *[An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance](https://docs.google.com/presentation/d/1lE97gEUbXtdL9KhVwKcrC1DAg5TKKjRY8s95sjpoeDo/edit#slide=id.g45dfdfdcb5_0_296)*<br />[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)
-* 10:15 — 10:40: Talk
-    * [*Jupyter in a Nutshell*](https://github.com/parente/jupyterday2018)<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
-* 10:45 — 11:00: Morning break
-* 11:00 — 12:00: Talks
-    * [*itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*](https://bit.ly/triangle-itk-jupyter-widgets-talk)<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
-    * [*Learning in Jupyter*](https://github.com/pharja4/JupyterDay/blob/master/JupyterNB_Training_JoanPharr.pptx) <br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
-* 12:00 — 13:00: Lunch, announcements
-* 13:00 — 13:55: Short talks
-    * [*Have Yourself a Merry Little Notebook*](https://docs.google.com/presentation/d/e/2PACX-1vTkUcBEni7k0htimR4DzceNcN_RSfZMVENpqXYq4DCe_JTs8VnoAnMpRsUoAnQcjMrE6Un_J8xAPqhR/pub)<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)
-    * [*importnb: An Impromptu Talk*](https://github.com/deathbeds/importnb)<br />[Tony Fast](https://twitter.com/docfast) (QuanSight)
-    * *[Integrating JupyterLab and Jupyter into Code Ocean](https://github.com/setgree/jupyter-day-presentation)*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
-    * *[Everything I wish I knew sooner (so far)](https://github.com/jussmi/triangle-jupyter-day-2018)*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
-    * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
-    * [*Deep Learning in Jupyter with Python and SAS*](https://github.com/sassoftware/python-dlpy/blob/master/examples/Identifying_Superheroes_From_Product_Images.ipynb)<br />[Andre Violante](https://github.com/aviolante) (SAS)  
-    * [*Under the Covers: Jupyter Notebook &amp; Tornado*](https://github.com/josh-howes/jupyter-day-triangle-2018/blob/master/jupyter_tornado/notebooks/Under%20the%20Covers%20-%20Jupyter%20Notebook%20%26%20Tornado.ipynb)<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
-* 14:00 — 14:15: Afternoon break
-* 14:15 — 15:10: Talks
-    * *Best Of: 6 years of Notebooks*<br />[Francois Dion](https://twitter.com/f_dion) (Dion Research LLC)  
-    * [*I Like Notebooks: A Response*](https://docs.google.com/presentation/d/1XmbeH_sdOKqhi05_FbH2EdRw948i8IvBz1PdfJGbhf4/edit?usp=sharing)<br />[Tim Hopper](https://twitter.com/tdhopper) (Cylance, Inc)
-* 15:15 — 15:30: Late afternoon break
-* 15:30 — 16:55  Short talks
-    * [*Just a little bit of PixieDust*](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/96ee6ab4-6460-490b-90d1-8cdef040b89e/view?access_token=b958279d3c57861754ebb5cf6205292f78e0b8ee7ee7943753a349066f5e8abd)<br />[Zeydy Ortiz](https://www.linkedin.com/in/zortiz) (DataCrunch Lab)  
-    * *[The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility](https://github.com/libcce/TriangleJupyter/blob/master/presentations/CoreRE2JupyterDayUNC2018.pdf)*<br />[Jonathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
-    * *[Sprinting in Jupyter Through R Track Results](https://github.com/RickPack/TriangleJupyter2018/blob/master/Sprinting_in_jupyter_through_r_track_results.pptx) ([Notebook](https://github.com/RickPack/TriangleJupyter2018/blob/master/Godiva_1.ipynb))*<br />[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
-    * *[Using Dask with Jupyter widgets for visualizing queries on large datasets](https://github.com/scottlittle/jupyterday-dask-jupyter-widgets/blob/master/Using%20Dask%20with%20Jupyter%20Widgets%20for%20Visualizing%20Queries%20on%20Large%20Datasets.ipynb)*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
-    * *[Metadata Mission to Jupyter](https://github.com/libcce/TriangleJupyter/blob/master/presentations/Metadata-Mission-to-Jupyter.pdf)*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
-    * *Stacking audience models in a notebook*<br />[Alice Broadhead](https://twitter.com/alicebroadhead) (Valassis Digital)  
-    * *[3D Slicer, Python, Xeus, and Jupyter](http://bit.ly/2018-jupyterday-triangle-slicer)*<br/>[Jean-Christophe Fillion-Robin](https://twitter.com/thehiddenbrain) (Kitware)
-    * [*Stop editing cells! Build a User-Interface for your Notebook*](https://github.com/gnfrazier/jupyter-day-presentation)<br />[Greg Frazier](https://www.linkedin.com/in/gnfrazier/) (Performance Bicycle)  
-    * *Kernda: Enabling conda in the notebook*<br />[Eric Dill](https://twitter.com/chemisist) (Anaconda) [talk](https://docs.google.com/presentation/d/1V3a3t6545PvKktgjvkpfXRUA7tw7fu3G43NcBHCjyeE/)
-    * *Using Jupyter to generate a data enrichment workflow in response to Hurricane Florence*<br />[Ryan Cooper](https://twitter.com/maptastik) (City of Raleigh Parks, Recreation and Cultural Resources)  
-* 17:00 — 17:10: Closing Remarks  
-* 17:15 — 18:00: Informal Networking, Q&A, Getting Started with Jupyter Help
+
 
 _[Please take the exit survey](https://goo.gl/forms/0vFd4t6LXcUUt1VM2)_
 
