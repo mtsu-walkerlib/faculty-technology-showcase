@@ -11,10 +11,12 @@ September 24, 2019<br />
 Murfreesboro, TN 37132 USA <br />
 [Directions](http://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours) | [Google Maps](https://goo.gl/maps/MhA2jd16BQz)
 
-### Program
+### Schedule (?)
 
 *Please feel free to [send pull-requests](https://github.com/libcce/TriangleJupyter/blob/master/information.md) linking talk titles below to presentation materials.*
 
+*
+*
 
 
 _[Please take the exit survey](https://goo.gl/forms/0vFd4t6LXcUUt1VM2)_
