@@ -3,10 +3,10 @@ title: Engage with Data Science
 email: MaryEllen.Sloane@mtsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Upcoming Date @ MTSU
-baseurl:  /engage-with-data-science
-url:  https://github.com/mesloane
+baseurl:  /engagewithdatascience
+url:  https://github.com/mtsu-walkerlib
 twitter_username: me_sloane 
-github_username:  me_sloane 
+github_username:  mesloane 
 
 # Build settings
 markdown: kramdown
