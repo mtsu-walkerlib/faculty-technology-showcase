@@ -1,4 +1,4 @@
-# Facilty Technology Showcase
+# Faculty Technology Showcase
 
 Communicate on our Slack channel: https://engagewithdat-j8s3791.slack.com/messages/CJX99KJMP/
 
