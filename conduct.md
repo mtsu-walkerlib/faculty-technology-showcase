@@ -3,7 +3,7 @@ layout: page
 title: Code of Conduct
 permalink: /conduct/
 ---
-<noinclude>
+
 Project Jupyter is an engaged and respectful community made up of people from
 all over the world. Your involvement helps us to further our mission and
 create an open platform that serves a broad range of communities, from
@@ -93,4 +93,3 @@ for the duration of the event.
 - **Local sexual assault hot line:** See UNC Campus Police info above or [https://safe.unc.edu/](https://safe.unc.edu/)
 - **Non-emergency medical (e.g., urgent care, day clinic):** [UNC Hospital Emergency Room](https://goo.gl/maps/TPdUyGjR9TF2), [UNC Urgent Care 24/7](https://www.unchealthcare.org/unc-urgent-care-247/)
 - **Taxi:** [UNC Transit](http://move.unc.edu/transit/), [Chapel Hill Taxi](http://www.chapelhilltaxi.com/) (919-933-9595), Uber, Lyft
-</noinclude>
