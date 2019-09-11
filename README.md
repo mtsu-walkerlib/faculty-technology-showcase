@@ -2,7 +2,7 @@
 
 Communicate on our Slack channel: https://engagewithdat-j8s3791.slack.com/messages/CJX99KJMP/
 
-Source of the event website located at https://mtsu-walkerlib.github.io/engage-with-data-science/.
+Source of the event website located at https://mesloane.github.io/engage-with-data-science/.
 
 ## Contributing to the website
 
