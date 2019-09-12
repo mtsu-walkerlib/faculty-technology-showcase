@@ -22,4 +22,4 @@ The Faculty Technology Showcase will feature:
 
 Visit our LibGuide page for more information.
 
-Contact Mary Ellen Sloane if you have any questions.
+Contact Mary Ellen Sloane at maryellen.sloane@mtsu.edu if you have any questions.
