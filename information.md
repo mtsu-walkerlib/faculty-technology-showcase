@@ -9,7 +9,6 @@ Wednesday, September 25, 2019 at 3pm-5pm<br />
 [James E. Walker Library](https://library.mtsu.edu/homeb)<br />
 1611 Alumni Drive
 Murfreesboro, TN 37132 USA <br />
-[Directions](http://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours) | [Google Maps](https://goo.gl/maps/MhA2jd16BQz)
 
 ### Description
 
