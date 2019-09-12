@@ -1,6 +1,6 @@
 # Faculty Technology Showcase
 
-Communicate on our Slack channel: https://engagewithdat-j8s3791.slack.com/messages/CJX99KJMP/
+Communicate on our Slack channel: https://middletenness-ycs2784.slack.com/
 
 Source of the event website located at https://mtsu-walkerlib.github.io/faculty-technology-showcase/.
 
