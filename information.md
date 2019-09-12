@@ -15,9 +15,16 @@ Murfreesboro, TN 37132 USA <br />
 The Faculty Technology Showcase, sponsored by MT Engage, is an opportunity for faculty to demonstrate the role of software in discipline-specific research. It is also an opportunity for the campus community to learn more about the technology training resource available to all students and employees.
 
 The Faculty Technology Showcase will feature:
--Guest speakers that will be giving presentations and demonstrations on software. Stations will be set up to learn more about the various resources and software discussed.
--MTSU creative student organization Sandbox's open house.
--Refreshments that will be served during the event.
+*Guest speakers that will be giving presentations and demonstrations on software. Stations will be set up to learn more about the various resources and software discussed.
+*MTSU creative student organization Sandbox's open house.
+*Refreshments that will be served during the event.
+
+### Schedule
+
+Engineering Technology - 3:00-3:50 pm  - Dr. Saeed Foroudastan
+English and Rhetoric - 4:10pm  - Dr. Eric Detweiler 
+[Department] - 4:40pm [guest speaker]
+
 
 Visit our LibGuide page for more information.
 
