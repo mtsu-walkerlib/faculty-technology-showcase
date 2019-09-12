@@ -14,7 +14,7 @@ Murfreesboro, TN 37132 USA <br />
 
 The Faculty Technology Showcase, sponsored by MT Engage, is an opportunity for faculty to demonstrate the role of software in discipline-specific research. It is also an opportunity for the campus community to learn more about the technology training resource available to all students and employees.
 
-The Faculty Technology Showcase will feature:
+The Faculty Technology Showcase will feature:<br />
 -Guest speakers that will be giving presentations and demonstrations on software. Stations will be set up to learn more about the various resources and software discussed.<br />
 -MTSU creative student organization Sandbox's open house.<br />
 -Refreshments that will be served during the event.<br />
