@@ -6,7 +6,7 @@ permalink: /information/
 
 Faculty Technology Showcase<br />
 Wednesday, September 25, 2019 at 3pm-5pm<br />
-[James E. Walker Library](https://library.mtsu.edu/homeb)<br />
+[James E. Walker Library](https://library.mtsu.edu/home)<br />
 1611 Alumni Drive
 Murfreesboro, TN 37132 USA <br />
 
